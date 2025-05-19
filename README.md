@@ -29,3 +29,4 @@ The project includes a Bash script `deauth.sh` to automate the Wi-Fi de-authenti
 Make it executable with:
 ```bash
 chmod +x deauth.sh
+./deauth.sh
