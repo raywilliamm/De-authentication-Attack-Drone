@@ -2,12 +2,6 @@
 
 This project demonstrates the development of a drone-based system capable of performing radio frequency (RF) jamming and Wi-Fi de-authentication attacks using a Raspberry Pi and ALFA network adapter. It was created as a final university project for educational and authorized security testing purposes.
 
-## Team Members
-- Ray William  
-- Ali Hijazi  
-- Peter Khalifeh  
-- Abdallah El Rez
-
 ## Technologies & Tools
 - Raspberry Pi 4  
 - Kali Linux  
